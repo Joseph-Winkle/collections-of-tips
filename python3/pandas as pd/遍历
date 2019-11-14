@@ -1,0 +1,7 @@
+iterrows():将DataFrame迭代为(insex, Series)对。
+
+itertuples(): 将DataFrame迭代为元组。
+
+iteritems():将DataFrame迭代为(列名, Series)对。
+
+栗子：https://www.jianshu.com/p/31f6c13df90f
